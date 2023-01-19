@@ -1,0 +1,16 @@
+15
+printLevelCount
+insert "one" 04000000
+insert "three" 30000000
+insert "bruh" 20000000
+search x3200000
+insert "four" 40000000
+insert "five" 50000000
+insert "six" 60000000
+insert "bruh" 55000000
+search "one"
+search "bruh"
+printInorder
+removeInorder 3
+printPreorder
+printLevelCount
